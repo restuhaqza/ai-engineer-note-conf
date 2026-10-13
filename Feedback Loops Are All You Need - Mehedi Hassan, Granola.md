@@ -1,4 +1,4 @@
-# Feedback Loops are All You Need
+# Feedback Loops Are All You Need
 
 | Field | Details |
 | --- | --- |

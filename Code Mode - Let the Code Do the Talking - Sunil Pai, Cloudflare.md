@@ -1,4 +1,4 @@
-# Code Mode: Let the Code do the Talking
+# Code Mode: Let the Code Do the Talking
 
 | Field | Details |
 | --- | --- |

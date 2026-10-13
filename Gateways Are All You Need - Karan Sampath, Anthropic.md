@@ -1,4 +1,4 @@
-# Gateways are All You Need
+# Gateways Are All You Need
 
 | Field | Details |
 | --- | --- |
