@@ -1,4 +1,4 @@
-# Running LLMs locally: Practical LLM Performance on DGX Spark
+# Running LLMs locally: capacity, throughput, and responsiveness on DGX Spark
 
 | Field | Details |
 | --- | --- |

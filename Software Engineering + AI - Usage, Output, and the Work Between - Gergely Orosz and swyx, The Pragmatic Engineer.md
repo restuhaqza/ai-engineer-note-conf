@@ -1,4 +1,4 @@
-# Software Engineering + AI = ?
+# Software Engineering + AI: Usage, Output, and the Work Between
 
 | Field | Details |
 | --- | --- |

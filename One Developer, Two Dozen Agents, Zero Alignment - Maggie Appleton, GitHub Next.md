@@ -1,4 +1,4 @@
-# One Developer, Two Dozen Agents, Zero Alignment: Why we Need Collaborative AI Engineering
+# One Developer, Two Dozen Agents, Zero Alignment
 
 | Field | Details |
 | --- | --- |

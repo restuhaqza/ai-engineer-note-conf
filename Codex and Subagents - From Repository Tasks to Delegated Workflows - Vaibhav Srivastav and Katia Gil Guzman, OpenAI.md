@@ -1,4 +1,4 @@
-# Codex and Subagents
+# Codex and Subagents: From Repository Tasks to Delegated Workflows
 
 | Field | Details |
 | --- | --- |

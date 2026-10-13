@@ -1,4 +1,4 @@
-# AI SDK v6
+# AI SDK v6: From a Chat Interface to an Agent with a Persistent Computer
 
 | Field | Details |
 | --- | --- |

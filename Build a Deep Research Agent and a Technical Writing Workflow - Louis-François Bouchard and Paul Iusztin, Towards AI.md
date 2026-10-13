@@ -1,4 +1,4 @@
-# Build Your Own Deep Research Agent + Technical Writer
+# Build a Deep Research Agent and a Technical Writing Workflow
 
 | Field | Details |
 | --- | --- |

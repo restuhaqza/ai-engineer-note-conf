@@ -1,4 +1,4 @@
-# Harness Engineering: How to Build Software When Humans Steer, Agents Execute
+# Harness Engineering: When Humans Steer and Agents Execute
 
 | Field | Details |
 | --- | --- |

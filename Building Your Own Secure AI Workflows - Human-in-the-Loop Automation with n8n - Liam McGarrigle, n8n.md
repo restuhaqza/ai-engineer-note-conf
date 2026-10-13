@@ -1,4 +1,4 @@
-# Building your own secure AI workflows: Human-in-the-loop automation with n8n
+# Building Your Own Secure AI Workflows: Human-in-the-Loop Automation with n8n
 
 | Field | Details |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Shipping complex AI applications: Braintrust & Trainline
+# Shipping complex AI applications | Braintrust & Trainline
 
 | Field | Details |
 | --- | --- |

@@ -1,4 +1,4 @@
-# How Google DeepMind is researching the next Frontier of AI for Gemini — Raia Hadsell, VP of Research
+# How Google DeepMind is researching the next Frontier of AI for Gemini
 
 | Field | Details |
 | --- | --- |

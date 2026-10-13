@@ -1,4 +1,4 @@
-# Mind the Gap (In your Agent Observability)
+# Mind the Gap in Your Agent Observability
 
 | Field | Details |
 | --- | --- |

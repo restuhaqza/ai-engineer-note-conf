@@ -1,4 +1,4 @@
-# "Software Fundamentals Matter More Than Ever"
+# Why Software Fundamentals Matter More in the Age of AI Coding
 
 | Field | Details |
 | --- | --- |

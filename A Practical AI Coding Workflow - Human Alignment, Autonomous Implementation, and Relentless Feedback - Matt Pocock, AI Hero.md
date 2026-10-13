@@ -1,4 +1,4 @@
-# Full Walkthrough: Workflow for AI Coding
+# A Practical AI Coding Workflow: Human Alignment, Autonomous Implementation, and Relentless Feedback
 
 | Field | Details |
 | --- | --- |

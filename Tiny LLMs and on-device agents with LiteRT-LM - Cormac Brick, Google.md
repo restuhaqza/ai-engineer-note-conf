@@ -1,4 +1,4 @@
-# TLMs: Tiny LLMs and Agents on Edge Devices with LiteRT-LM
+# Tiny LLMs and on-device agents with LiteRT-LM
 
 | Field | Details |
 | --- | --- |

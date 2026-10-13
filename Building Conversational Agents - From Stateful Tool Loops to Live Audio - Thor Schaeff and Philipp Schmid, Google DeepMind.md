@@ -1,4 +1,4 @@
-# Building Conversational Agents
+# Building Conversational Agents: From Stateful Tool Loops to Live Audio
 
 | Field | Details |
 | --- | --- |

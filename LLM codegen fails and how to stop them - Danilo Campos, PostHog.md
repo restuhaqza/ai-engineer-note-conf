@@ -1,4 +1,4 @@
-# LLM codegen fails and how to stop 'em
+# LLM codegen fails and how to stop them
 
 | Field | Details |
 | --- | --- |

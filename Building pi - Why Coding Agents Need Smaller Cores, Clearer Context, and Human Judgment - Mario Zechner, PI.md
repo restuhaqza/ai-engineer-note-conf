@@ -1,4 +1,4 @@
-# Building pi in a World of Slop
+# Building pi: Why Coding Agents Need Smaller Cores, Clearer Context, and Human Judgment
 
 | Field | Details |
 | --- | --- |

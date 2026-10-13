@@ -1,4 +1,4 @@
-# Why, and how you need to sandbox AI-Generated Code?
+# Why and how you need to sandbox AI-generated code?
 
 | Field | Details |
 | --- | --- |

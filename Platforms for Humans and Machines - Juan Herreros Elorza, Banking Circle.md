@@ -1,4 +1,4 @@
-# Platforms for Humans and Machines: Engineering for the Age of Agents
+# Platforms for Humans and Machines
 
 | Field | Details |
 | --- | --- |

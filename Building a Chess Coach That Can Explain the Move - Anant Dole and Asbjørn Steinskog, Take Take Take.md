@@ -1,4 +1,4 @@
-# Building a Chess Coach
+# Building a Chess Coach That Can Explain the Move
 
 | Field | Details |
 | --- | --- |

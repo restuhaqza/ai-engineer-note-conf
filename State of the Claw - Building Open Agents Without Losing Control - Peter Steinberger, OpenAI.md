@@ -1,4 +1,4 @@
-# State of the Claw
+# State of the Claw: Building Open Agents Without Losing Control
 
 | Field | Details |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Why MLX
+# Why MLX: Building Agents That See, Hear, and Speak Locally
 
 | Field | Details |
 | --- | --- |
